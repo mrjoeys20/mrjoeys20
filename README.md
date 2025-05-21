@@ -1,49 +1,73 @@
-# 👋 Hi, I'm Hassan Tahir!
+<h1 align="center">Hi 👋, I'm Hassan</h1>
+<h3 align="center">Software Developer | Tech Explorer | Open-Source Enthusiast</h3>
 
-### 💻 Software Developer | 🚀 Tech Enthusiast
-
-Welcome to my GitHub! I'm an aspiring software engineering student and I am passionate about building software
-
----
-
-## 🛠️ Technologies & Tools
-
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=440&lines=Welcome+to+my+GitHub!;Always+learning+new+things;Building+cool+stuff+with+code" alt="Typing SVG" />
+</p>
 
 ---
 
-## 📂 Featured Projects
+## 🧰 Languages & Tools
 
-### 📌 [InternetVideoDownloader]([https://github.com/mrjoeys20/](https://github.com/mrjoeys20/InternetvideoDownloader))
-An Internet video downloader project, pretty self explanatory. Popular platforms(Youtube, Instagram, Reddit etc) are supported. 
-Simply insert a link and download it to your desired location on you PC.
-There are options to select different qualities depending upon the platform.
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="40" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="40" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="40" alt="Linux" />
+</p>
 
-### 📌 [Exam Management System]
-Final Project for my CS50p course.
+---
 
-> 👉 See more projects in my [Repositories](https://github.com/mrjoeys20?tab=repositories)
+## 🚀 About Me
+
+- 🔭 I’m currently working on: **AI development Using Python**  
+- 🌱 I’m learning: **Software Engineering**  
+- 🤝 I’m open to collaborating on: **AI projects and maybe even Game development**  
+- 📫 How to reach me: **[mrjoeys20@gmail] or [www.linkedin.com/in/hassan-t-4a9331351]**  
+- ⚡ Fun fact: *Bored as hell*
+
+---
+
+## 📌 Highlight Projects
+
+### 🎯 [InternetVideoDownloader](https://github.com/mrjoeys20/InternetvideoDownloader)
+> Short 1–2 sentence description of what this does and why it's cool.  
+> 🛠️ `Tech Stack: Java, Spring Boot, MySQL`
+
+### 🧠 [Exam Management System]
+> Problem-solver app built with clean UI and scalable backend.  
+> 🛠️ `Tech Stack: Python, Flask, SQLite`
+
+⏩ See more in my [Repositories »](https://github.com/mrjoeys20?tab=repositories)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrjoeys20&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mrjoeys20&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrjoeys20&layout=compact&theme=github_dark&hide_border=true" height="170"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrjoeys20&layout=compact&theme=radical)
+---
+
+## 🌐 Connect with Me
+
+<p align="left">
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/-Portfolio-24292e?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
 ---
 
-## 📫 Let's Connect
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mrjoeys20&label=Profile%20Views&color=blueviolet&style=flat" alt="profile-views" />
+</p>
 
-- 🔗 [LinkedIn](www.linkedin.com/in/hassan-t-4a9331351)
-- 📧 Email: mrjoeys20@gmail.com
-
----
+> _“Now where could my Pipe be, Garfield!” – Jon Arbuckle
 
