@@ -35,12 +35,15 @@
 ## 📌 Highlight Projects
 
 ### 🎯 [InternetVideoDownloader](https://github.com/mrjoeys20/InternetvideoDownloader)
-> Short 1–2 sentence description of what this does and why it's cool.  
-> 🛠️ `Tech Stack: Java, Spring Boot, MySQL`
+> Tool to download Videos from popular websites like Youtube, Instagram, Facebooak and Reddit. Just Paster the link in the app and see the media download.
+> With eye-catching GUI and storing history via local database.
+> 🛠️ `Tech Stack: Java, JavaFX(GUI), CSS, SQLite`
 
 ### 🧠 [Exam Management System]
-> Problem-solver app built with clean UI and scalable backend.  
-> 🛠️ `Tech Stack: Python, Flask, SQLite`
+> Final project for my CS50p course. Simple CLI based application that manages Teacher, Student and exam records via usings csv files.  
+> 🛠️ `Tech Stack: Python, CSV files`
+
+### [AI works Using Python]
 
 ⏩ See more in my [Repositories »](https://github.com/mrjoeys20?tab=repositories)
 
