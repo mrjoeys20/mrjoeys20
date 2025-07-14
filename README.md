@@ -27,7 +27,7 @@
 - 🔭 I’m currently working on: **AI development Using Python**  
 - 🌱 I’m learning: **Software Engineering**  
 - 🤝 I’m open to collaborating on: **AI projects and maybe even Game development**  
-- 📫 How to reach me: **[mrjoeys20@gmail] or [www.linkedin.com/in/hassan-t-4a9331351]**  
+- 📫 How to reach me: **[mhassantahir2007@gmail.com] or [www.linkedin.com/in/hassan-t-4a9331351]**  
 - ⚡ Fun fact: *Bored as hell*
 
 ---
@@ -61,9 +61,8 @@
 ## 🌐 Connect with Me
 
 <p align="left">
-  <a href="mailto:mrjoeys20@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:mhassantahir2007@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/hassan-t-4a9331351"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/-Portfolio-24292e?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
